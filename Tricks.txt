@@ -1,0 +1,13 @@
+style={{"textDecoration":'none'}}
+
+to remove underline in navbar
+
+
+
+py-20 is the css property to keep distance from top
+<section class="py-20"></section>
+
+
+https://react-icons.github.io/react-icons/icons/io/
+react icons
+first install react
